@@ -1,6 +1,5 @@
 ## Olá! Eu sou amante da matemática, programação e da resolução de problemas 😍
 <div align="center">
-  <a href="https://github.com/renankalfa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renankalfa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankalfa&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
