@@ -10,12 +10,13 @@
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/480px-Vegas_Pro_15.0.png">
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908418764918370334/928514529925685288/Cwgf.gif">
 </div>
+  
+ ##
 
-  ##
 ```python
-while True:
-  eat()
-  math()
-  code()
-  sleep()
+def learning():
+  while True:
+    pandas()
+    numpy()
+    sklearn()
 ```
