@@ -16,7 +16,6 @@
 ```python
 def learning():
   while True:
-    pandas()
-    numpy()
-    sklearn()
+    data_science()
+    machine_learning()
 ```
