@@ -24,6 +24,6 @@
 - **General idea**: a terminal menu that has three functions (look at the database, add data and close the program) and is customizable in its style, name, data types and the name of the database;
 - **Project**: [Menu Personalizável pelo usuário em Python](https://github.com/renankalfa/customizable-menu-python).
 
-#### Zip Code Query via API
+#### Cep Code Query with API
 - **General ideia**: It is a simple project, in which the user enters a zip code, the program validates it, consumes an API and returns some information such as the address and locality/UF;
 - **Project**: [Consulta de informações do endereço com API](https://github.com/renankalfa/consulta-cep-api-python).
