@@ -16,11 +16,7 @@
 - **Business Problem**: House Rocket have a business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and recommend the purchase of properties based on criteria, as well as set the sale price and profit;
 - **Project**: [House Rocket](https://github.com/renankalfa/data-analysis-house-rocket).
 
-#
-
-### Power BI Projects
-
-#### PNS ao Dashboard
+#### PNS ao Dashboard (em progresso)
 - **General idea**: criar vários dashboards a partir dos dados da **Pesquisa Nacional de Saúde**;
 - **Project**: [Dashboards com a PNS 2019](https://github.com/renankalfa/pnsaude-dashboards).
 
