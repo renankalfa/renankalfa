@@ -18,6 +18,12 @@
 
 #
 
+### Power BI Projects
+
+#### PNS ao Dashboard
+- **General idea**: criar vários dashboards a partir dos dados da **Pesquisa Nacional de Saúde**;
+- **Project**: [Dashboards com a PNS 2019](https://github.com/renankalfa/pnsaude-dashboards).
+
 ### Python Projects:
 
 #### Customizable Menu
