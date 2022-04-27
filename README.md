@@ -6,8 +6,6 @@
 
 #### Kalf's Company (in progress)
 
-<img width="1796" alt="wallpaper kalf's company" src="https://user-images.githubusercontent.com/97196457/165429710-386e3e07-f2ed-4e3d-9e6a-9ac9c25eb711.png">
-
 - **Business Problem**: Kalf's is a fictitious company. As a data scientist, my goal is to generate value in six departments of this company through data;
 - **Project**: [Kalf's Company](https://github.com/renankalfa/kalfs-company-datascience).
 
