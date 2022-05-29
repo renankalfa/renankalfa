@@ -25,6 +25,10 @@
 
 ### Python Projects:
 
+#### 7 Aplicações com Interface Gráfica
+- **General ideia**: criar 7 aplicações com o intuito de começar a aprender interface gráfica usando o Python.
+- **Project**: [7 Aplicações com Interface Gráfica com Tkinter](https://github.com/renankalfa/7_aplicacoes_com_tkinter).
+
 #### Customizable Menu
 - **General idea**: a terminal menu that has three functions (look at the database, add data and close the program) and is customizable in its style, name, data types and the name of the database;
 - **Project**: [Menu Personalizável pelo usuário em Python](https://github.com/renankalfa/customizable-menu-python).
