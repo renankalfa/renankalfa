@@ -25,7 +25,7 @@
 
 ### Python Projects:
 
-#### 7 Aplicações com Interface Gráfica (em andamento)
+#### 7 Aplicações com Interface Gráfica (em progresso)
 - **General ideia**: criar 7 aplicações com o intuito de começar a aprender interface gráfica usando o Python.
 - **Project**: [7 Aplicações com Interface Gráfica com Tkinter](https://github.com/renankalfa/7_aplicacoes_com_tkinter).
 
