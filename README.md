@@ -13,6 +13,10 @@
 
 ### Data Analysis Projects:
 
+#### Dashboard das Redes de Atendimento
+- **General ideia**: criar um dashboard com as redes de atendimento à mulher que estão presentes no Distrito Federal/Brasil.
+- **Project**: [Da Cartilha em PDF ao Dashboard](https://github.com/renankalfa/pdf-text-extract).
+
 #### House Rocket
 - **Business Problem**: House Rocket have a business model is based on the purchase and sale of properties. As a data scientist, my mission is to validate business hypotheses and recommend the purchase of properties based on criteria, as well as set the sale price and profit;
 - **Project**: [House Rocket](https://github.com/renankalfa/data-analysis-house-rocket).
@@ -22,12 +26,12 @@
 - **Project**: [Dashboards com a PNS 2019](https://github.com/renankalfa/pnsaude-dashboards).
 
 #
-
+ 
 ### Python Projects:
 
-#### 7 Aplicações com Interface Gráfica (em progresso)
-- **General ideia**: criar 7 aplicações com o intuito de começar a aprender interface gráfica usando o Python.
-- **Project**: [7 Aplicações com Interface Gráfica com Tkinter](https://github.com/renankalfa/7_aplicacoes_com_tkinter).
+#### Geradores de Relatórios
+- **General ideia**: programas em Python que geram relatórios em arquivos Words.
+- **Project**: [Geradores Automáticos de Relatórios](https://github.com/renankalfa/gerador_relatorios).
 
 #### Customizable Menu
 - **General idea**: a terminal menu that has three functions (look at the database, add data and close the program) and is customizable in its style, name, data types and the name of the database;
